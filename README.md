@@ -8,7 +8,7 @@
 ## 📌 Personalized Parameters
 - **Author:** Kagawad Kauri Lorraine Flores (`kagawad.flores@bulletin.test`)
 - **Site Title:** Barangay Bulletin - Purok Flores
-- **Pinned Post:** Purok Flores Clean-up Drive (Scheduled on 2026-08-24)
+- **Pinned Post:** Purok Flores Clean-up Drive (Scheduled on 2026-02-04)
 - **Custom Category:** Youth & Sports
 - **Pagination Number:** 6 posts per page (Last name "Flores" contains 6 letters)
 
